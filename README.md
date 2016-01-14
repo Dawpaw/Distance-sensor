@@ -1,2 +1,4 @@
 # Distance-sensor
-It´s a work for my school.
+It´s just a code I made for a school project.
+You can use it and modify it if you whant.
+
