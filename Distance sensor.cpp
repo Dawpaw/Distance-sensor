@@ -1,3 +1,5 @@
+//Its either INO or CPP I don't remember to be honest
+
 #define trigPin 6
 #define echoPin 7
 
